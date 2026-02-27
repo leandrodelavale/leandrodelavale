@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Gosto de jogar bola<br>📚 Estudo desenvolvimento de sistema no Senai<br>🎯 Formado em TI no Alcina<br>🎲 Amo jogar video-game</p>
+<p align="left">✨ Gosto de jogar bola<br>📚 Estudo desenvolvimento de sistemas no Senai<br>🎯 Formado em TI no Alcina<br>🎲 Amo jogar video-game</p>
 
 ###
 
