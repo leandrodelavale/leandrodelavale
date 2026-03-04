@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mim aaa</h2>
+<h2 align="left">Sobre mim aa</h2>
 
 ###
 
