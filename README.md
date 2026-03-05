@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Sobre mim aa</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Gosto de jogar bola<br>📚 Estudo desenvolvimento de sistemas no Senai<br>🎯 Formado em TI no Alcina<br>🎲 Amo jogar video-game</p>
+<p align="left">✨ Amo jogar bola<br>📚 Estudo desenvolvimento de sistemas no Senai<br>🎯 Formado em TI no Alcina<br>🎲 Amo jogar video-game</p>
 
 ###
 
